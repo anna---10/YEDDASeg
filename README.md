@@ -39,12 +39,12 @@ Cite:
 =====
 If you use this tool or modify this tool, I recommend citing the original [YEDDA's](https://arxiv.org/pdf/1711.03759.pdf) report:
 
-`@article{yang2017yedda,  
- title={YEDDA: A Lightweight Collaborative Text Span Annotation Tool},  
- author={Jie Yang and Yue Zhang},  
- Journal = {arXiv preprint arXiv:1711.03759},
- year={2017}  
-}`
+	@article{yang2017yedda,  
+	 title={YEDDA: A Lightweight Collaborative Text Span Annotation Tool},  
+	 author={Jie Yang and Yue Zhang},  
+	 Journal = {arXiv preprint arXiv:1711.03759},
+	 year={2017}  
+	}
 
 Updates:
 ====
