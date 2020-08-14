@@ -1,0 +1,33 @@
+https://www.debate.org/debates/The-current-evolutionary-synthesis-is-not-a-scientific-theory/1/
+
+TITLE: The current evolutionary synthesis is not a scientific theory
+
+CATEGORY: Science
+
+" Pro's definition of evolution covers all cases when the proportion of inherited traits change."
+ 
+ And yet if a population does not have a change in inherited traits it can simply be argued that the time was not long enough. Thus, if a population is observed over time the inherited traits can stay the same or they can change and converge, diverge or simply oscillate. How is this possibly predictive?
+ 
+ " The theory of evolution would be falsified if selective breeding did not work to change the proportion of traits in an organism. "
+ 
+ There is no constraint in the definition which can be used to exclude divergence, the traits could also simply oscillate. Note the definition does not reference genes, this was explicitly removed for a reason (see below).
+ 
+ "99.9 percent of scientists accept evolution"
+ 
+ Even if the majority of scientists agreed with this specific resolution, it would not make it true, and in this case what they are accepting is not the resolution as stated in the above.
+ 
+ Here is the crux, evolutionary theory started as the concept that proposed by Darwin that inherited traits are selected by a criterion of fit to the environment - this is a very easy statement to demonstrate, falsify and model. It underwent a major synthesis (restatement) due to the discovery of DNA which clarified the origin of the traits. This even lead some such as Dawkin's to argue for a purely gene centered view of evolution [1]. Then the mechanism of evolution (natural selection) was challenged due to discovery of genetic drift, which is argued by some to be the primary force for speciation[2].
+ 
+ At one point the theory was defined similar to the above but noted allele frequency (i.e. references genetics as the source of the traits). This was removed from the wiki definition (can be seen in the version history) and is no longer being used professionally because of discoveries which show that inherited traits are no longer exclusive to DNA. The growing body of new evidence has produced a contention now in biology that evolutionary theory requires a complete new synthesis (restatement) due to concepts such as
+ 
+ "evolvability, developmental plasticity, phenotypic and genetic accommodation, punctuated evolution, phenotypic innovation, facilitated variation, epigenetic inheritance, and multi-level selection" [3]
+ 
+ As evolutionary biologists struggle to ratify new observations and the extent to which they influence populations (Jerry Coyne vs Massimo Pigliucci for example) it leaves the definition of evolution in a never never land which has retreated almost to the hypothesis state and thus produces transitory definitions such as the above which have no explicit definition of trait expression, nor any mechanism which controls population frequency, nor even a convergence criteria (it is also now of some dispute if all life came from one ancestor, or a number of similar (extremely basic) ancestors).
+ 
+ As all of these are now being challenged by new observations and it is not well known as to the exact limiting influences of each, the contention in short simply argues that the current statements of evolution which are being used in this transition period while the current body of evidence is being integrated is not a scientific theory. It does not contain the constraints to allow it to be properly demonstrated (if-only-if), falsified, or be predictive, and it also does not reference any mechanism so does not explain as a theory should but at most appears to be a law similar to the second law as noted.
+ 
+ [1] The Selfish Gene (1976), Richard Dawkins
+ 
+ [2]  http://en.wikipedia.org... 
+ 
+ [3]  http://rationallyspeaking.blogspot.com...

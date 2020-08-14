@@ -1,6 +1,14 @@
-0	title
-1	introduction
-2	fact
-3	quote
-4	citation
-5	ending
+1	aspect1
+2	aspect2
+3	aspect3
+4	aspect4
+5	aspect5
+6	aspect6
+7	aspect7
+8	aspect8
+9	aspect9
+c	conclusion
+o	outside of argumentation
+h	high quality
+m	medium quality
+l	low quality
